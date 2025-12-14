@@ -50,17 +50,15 @@ el framework de Java para aplicaciones de escritorio.
 
  2. Componentes Clave
 
-        // Gestor de datos (lógica de negocio)
-    private GestorUnidades gestor;
+        // Gestor de datos (lógica de model)
     
-    // Layout para cambiar entre paneles
-    private CardLayout cardLayout;
-    private JPanel panelPrincipal;
-    
-    // Campos de formulario
-    private JTextField txtNombre, txtComuna, txtToneladas;
 
-
+        // Layout para cambiar entre paneles
+        private CardLayout cardLayout;
+        private JPanel panelPrincipal;
+        
+        // Campos de formulario
+        private JTextField txtNombre, txtComuna, txtToneladas;`### Features
 
 
 4. Flujo de la Aplicación
