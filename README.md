@@ -58,7 +58,7 @@ el framework de Java para aplicaciones de escritorio.
         private JPanel panelPrincipal;
         
         // Campos de formulario
-        private JTextField txtNombre, txtComuna, txtToneladas;`### Features
+        private JTextField 
 
 
 4. Flujo de la Aplicación
