@@ -50,7 +50,7 @@ el framework de Java para aplicaciones de escritorio.
 
  2. Componentes Clave
 
-    // Gestor de datos (lógica de negocio)
+        // Gestor de datos (lógica de negocio)
     private GestorUnidades gestor;
     
     // Layout para cambiar entre paneles
@@ -60,7 +60,10 @@ el framework de Java para aplicaciones de escritorio.
     // Campos de formulario
     private JTextField txtNombre, txtComuna, txtToneladas;
 
-3. Flujo de la Aplicación
+
+
+
+4. Flujo de la Aplicación
 
    1. Inicio: Muestra PantallaInicio (splash screen).
    2. Configuración: Inicializa ventana, icono y componentes.
