@@ -78,3 +78,4 @@ el framework de Java para aplicaciones de escritorio.
 2. Escalable: Fácil añadir nuevos paneles al CardLayout.
 3. Usuario intuitivo: Botones claros, mensajes informativos.
 4. Mantenible: Métodos organizados por funcionalidad.
+5. 
