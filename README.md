@@ -7,7 +7,6 @@ Este código implementa un sistema de gestión para unidades operativas de una e
 permitiendo cargar y visualizar información de centros de cultivo y plantas de proceso itegrando una interfaz gráfica.
 
 ## Estructura del Proyecto (Paquetes y clases)
-
 src/
 ├── main/
 │   ├── java/
@@ -49,6 +48,7 @@ src/
 ├── pom.xml          # o build.gradle si es Gradle
 ├── README.md
 └── target/          # o build/ si es Gradle (se ignora en git)
+
 
 
 # Aplicación de Interfaz (GUI) 
