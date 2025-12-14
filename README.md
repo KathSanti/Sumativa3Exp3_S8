@@ -37,6 +37,18 @@ src/
 │   └── resources/
 │       ├── logo.png
 │       ├── PantallaInicio.png
+│       └── SalmontUnidadOperativa.xlsx
+│
+├── test/
+│   └── java/
+│       └── com/
+│           └── puertosalmontt/
+│               └── ... (tests)
+│
+├── .gitignore
+├── pom.xml          # o build.gradle si es Gradle
+├── README.md
+└── target/          # o build/ si es Gradle (se ignora en git)
 
 
 # Aplicación de Interfaz (GUI) 
